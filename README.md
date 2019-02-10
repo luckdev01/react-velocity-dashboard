@@ -2,7 +2,8 @@
 
 Velocity Dashboard is a React component for presenting interactive dashboard components.  
 
-<img src="https://monsantoco.github.io/velocity-dashboard/dashboard.png" width="50%" height="50%"/>
+![screen shot velocity](https://user-images.githubusercontent.com/40633197/52529195-aa992c80-2ca2-11e9-9c7d-a774cd32f535.png)
+
 
 ### Features
 
@@ -13,10 +14,6 @@ Velocity Dashboard is a React component for presenting interactive dashboard com
 * Configurable column and row height
 * Easily re-styled
 
-### Links
-
-* [Interactive Demo](https://monsantoco.github.io/velocity-dashboard/)
-* [Developers Notes](DEVELOPERS.md)
 
 ## Usage
 For React 15 & older use 
